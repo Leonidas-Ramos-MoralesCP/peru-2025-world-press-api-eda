@@ -12,7 +12,7 @@ To do this, I use the NYT API to collect all 2025 articles about Peru and build 
 
 2. PROCESS: 
 
-2.1. Step 1 is to collect the news articles. In this project, I use The New York Times API to retrieve all 2025 articles that match a chosen keyword—here, “Peru.” Before running the script, you must obtain an API key from the NYT Developer Portal. Once you have the key, store it securely (e.g., as an environment variable) and use it in the Google Colab notebook. You can find the script for this case here:
+2.1. Step 1 is to collect the news articles. In this project, I use The New York Times API to retrieve all 2025 articles that match a chosen keyword—here, “Peru.” Before running the script, you must obtain an API key from the NYT Developer Portal. In this case, the API key is free—you just need to sign up on the developer site and generate one.  Once you have the key, store it securely (e.g., as an environment variable) and use it in the Google Colab notebook. You can find the script for this case here:
         
 https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/api_nyt.py
 
@@ -48,10 +48,11 @@ https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/m
 
 3. RESULTS:
 
+According to our script, The New York Times published 41 articles in 2025 that were directly related to Peru. Most of this coverage focused on the election and life of Pope Leo XIV. 
+
 ChatGPT automatically generated six categories. The two categories with the highest number of articles were Religion & Vatican and Culture & Lifestyle. The first is largely driven by coverage of the election of Pope Leo XIV, while the second focuses on arts, travel, and lifestyle-related stories connected to Peru.
 
 <img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/11c50664-9eba-4787-9abc-e0389028cedc" />
-
 
 The month in which The New York Times published the most articles about Peru was May 2025. This peak coincides with the election of Pope Leo XIV, who had obtained Peruvian citizenship years earlier. Most of the articles published that month focused on this connection.
 
