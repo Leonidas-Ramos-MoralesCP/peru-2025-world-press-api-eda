@@ -26,10 +26,19 @@ https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/m
 
 2.2. Step 2 focuses on analyzing the dataset. First, I wrote a prompt for ChatGPT with two tasks: (1) classify the articles into thematic categories and (2) calculate how many articles were published each month. The final prompt was as follows:
 
+Role: Act as a data analyst and text mining expert.Context: I am a political scientist analyzing a dataset of 41 New York Times articles published in 2025.
+Task 1: Text Classification
+Source Data: Use the text content found in Column B and Column C.
+Action: Classify these 41 articles into the following 6 categories that you consider. For example news about the Pope. 
+Output: Provide a structured table (formatted for Excel) that maps each news item to its assigned category.
+Task 2: Temporal Analysis
+Source Data: Use the date information in Column A.
+Action: Calculate the frequency of articles published per month throughout 2025.
+Output: Provide a summary table in Excel showing the month and the corresponding count of articles.
 
 The results are compiled in the following Excel file: 
 
-
+https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/NYT_Peru_2025_TextMining_Outputs_.xlsx
 
 3. RESULTS:
 
