@@ -1,5 +1,5 @@
 # peru-2025-world-press-api-eda
-
+# What did the world’s most important newspapers (like NYT) report about Peru in 2025?
 1. PROBLEM:
 
 What did the world’s most important newspapers (like NYT) report about Peru in 2025? (¿Qué reportaron los periodicos más importantes (como el NYT) sobre el Perú en el 2025?) 
