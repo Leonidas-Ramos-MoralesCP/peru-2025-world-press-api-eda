@@ -24,13 +24,25 @@ I removed two articles from the raw dataset because they contained the word “p
 
 https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/NYT_Peru_2025_Processed%20Data.xlsx 
 
-2.2. Step 2 is analyze this dataset. First at all we
+2.2. Step 2 focuses on analyzing the dataset. First, I wrote a prompt for ChatGPT with two tasks: (1) classify the articles into thematic categories and (2) calculate how many articles were published each month. The final prompt was as follows:
+
+
+The results are compiled in the following Excel file: 
+
+
 
 3. RESULTS:
 
-The month in which the NYT published news talking in part about Peru was in May 2025. That month was chosen as Pope Leo XIV. He got a peruvian nationality years ago. 
+ChatGPT automatically generated six categories. The two categories with the highest number of articles were Religion & Vatican and Culture & Lifestyle. The first is largely driven by coverage of the election of Pope Leo XIV, while the second focuses on arts, travel, and lifestyle-related stories connected to Peru.
+
+<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/11c50664-9eba-4787-9abc-e0389028cedc" />
+
+
+The month in which The New York Times published the most articles about Peru was May 2025. This peak coincides with the election of Pope Leo XIV, who had obtained Peruvian citizenship years earlier. Most of the articles published that month focused on this connection.
 
 <img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/6c366b16-88df-4b23-a2fd-1e5ffe2bf0a3" />
+
+
 
 
 
