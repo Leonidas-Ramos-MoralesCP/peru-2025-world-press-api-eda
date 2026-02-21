@@ -40,6 +40,12 @@ The results are compiled in the following Excel file:
 
 https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/NYT_Peru_2025_TextMining_Outputs_.xlsx
 
+Then I asked ChatGPT to identify the most frequent words in the titles and descriptions of these articles. This is the prompt I used:
+Role: Act as a data analyst and expert in text mining and Natural Language Processing (NLP).Context: I am a political scientist analyzing a dataset of 41 New York Times articles from 2025.  Task 3: Keyword Frequency & NLP Cleaning. Source: Combine text from Column B and Column C.Action: 1.  Perform a word count analysis across the entire corpus (all 41 news items). 2.  Crucial: Filter out all "stopwords" (common words like: the, and, of, in, to, a, is, etc.). 3.  Focus only on meaningful nouns, verbs, and adjectives. Output: A table in Excel showing the Top 20 most frequent keywords and their respective 
+
+The results are summarized in the following Excel file:
+https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/NYT_Peru_2025_TextMining_Outputs_.xlsx  
+
 3. RESULTS:
 
 ChatGPT automatically generated six categories. The two categories with the highest number of articles were Religion & Vatican and Culture & Lifestyle. The first is largely driven by coverage of the election of Pope Leo XIV, while the second focuses on arts, travel, and lifestyle-related stories connected to Peru.
@@ -50,6 +56,10 @@ ChatGPT automatically generated six categories. The two categories with the high
 The month in which The New York Times published the most articles about Peru was May 2025. This peak coincides with the election of Pope Leo XIV, who had obtained Peruvian citizenship years earlier. Most of the articles published that month focused on this connection.
 
 <img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/6c366b16-88df-4b23-a2fd-1e5ffe2bf0a3" />
+
+The most frequent words are “Peru” and “Pope”: 
+
+<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/9517f44a-d86f-49f2-a4ea-364bf9829cf3" />
 
 
 
