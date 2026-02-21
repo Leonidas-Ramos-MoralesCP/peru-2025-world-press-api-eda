@@ -1,4 +1,6 @@
-# What did the world’s most important newspapers (like NYT) report about Peru in 2025?  (¿Qué reportaron los periodicos más importantes (como el NYT) sobre el Perú en el 2025?) 
+# What did the world’s most important newspapers (like NYT) report about Peru in 2025? 
+# (¿Qué reportaron los periodicos más importantes (como el NYT) sobre el Perú en el 2025?) 
+
 1. PROBLEM:
 
 Countries like Peru care about how they are perceived by major global actors—especially the international news media. Leading outlets often cited by experts include The New York Times (United States), O Globo (Brazil), Le Monde (France), and the BBC (United Kingdom), among others.
