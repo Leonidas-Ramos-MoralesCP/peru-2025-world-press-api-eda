@@ -1,7 +1,7 @@
 # What did the world’s most important newspapers (like NYT) report about Peru in 2025? 
 # (¿Qué reportaron los periodicos más importantes (como el NYT) sobre el Perú en el 2025?) 
 
-1. PROBLEM:
+# 1. PROBLEM:
 
 Countries like Peru care about how they are perceived by major global actors—especially the international news media. Leading outlets often cited by experts include The New York Times (United States), O Globo (Brazil), Le Monde (France), and the BBC (United Kingdom), among others.
 
@@ -9,7 +9,7 @@ This project examines how much—and what type of—coverage Peru received in Th
 
 To do this, I use the NYT API to collect all 2025 articles about Peru and build a structured database. I then classify the articles with ChatGPT and conduct exploratory data analysis (EDA) to generate summary statistics and visual insights. Finally, I document the full workflow—how the data are retrieved via the NYT API and how the dataset is processed and analyzed.
 
-2. PROCESS: 
+# 2. PROCESS: 
 
 2.1. Step 1 is to collect the news articles. In this project, I use The New York Times API to retrieve all 2025 articles that match a chosen keyword—here, “Peru.” Before running the script, you must obtain an API key from the NYT Developer Portal. In this case, the API key is free—you just need to sign up on the developer site and generate one.  Once you have the key, store it securely (e.g., as an environment variable) and use it in the Google Colab notebook. You can find the script for this case here:
         
@@ -45,7 +45,7 @@ Role: Act as a data analyst and expert in text mining and Natural Language Proce
 The results are summarized in the following Excel file:
 https://github.com/Leonidas-Ramos-MoralesCP/peru-2025-world-press-api-eda/blob/main/NYT_Peru_2025_TextMining_Outputs_.xlsx  
 
-3. RESULTS:
+# 3. RESULTS:
 
 According to our script, The New York Times published 41 articles in 2025 that were directly related to Peru. Most of this coverage focused on the election and life of Pope Leo XIV. 
 
